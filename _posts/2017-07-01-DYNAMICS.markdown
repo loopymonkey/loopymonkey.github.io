@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "MTV On Air Dynamics"
+date:   2017-07-01 10:56:59 -0500
+tags: actionscript coding python
+image:	DYNAMICS/hero.jpg	
+---
+
+## CREATIVE BRIEF
+
+MTVU needed to bring in dynamic content over the air live.  We worked on a creative look and then worked on a custom back end solution to store data, and then converted the final design to work with our custom in house graphics tool.  
+
+{% include videoplayer.html video="DYNAMICS/mtvu_social.mp4" poster="DYNAMICS/mtvu_social.jpg" %}
+
+
+### CREDITS
+
+| SVP CREATIVE | Thomas Berger |
+| Creative Director | Lance Rusoff |
+| Programmer | Brian Corr |
+| Producer | Ross Jeffcoat

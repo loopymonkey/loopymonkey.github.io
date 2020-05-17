@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "MTV WEEKEND STUNTS"
+date:   2017-03-01 11:56:59 -0500
+tags:   promo packaging
+image:	WKND/hero.jpg
+---
+
+## CREATIVE BRIEF
+
+The MTV weekend stunt team requested original show packaging for weekend stunts from 2015-2017.  I worked on just about every stunt we did for those years, working closely with different art directors, designers and animators.  Timelines were always tight but it was always fun creating original content from scratch.
+
+{% include videoplayer.html video="WKND/SCARYASS_SAT_BUMP_noaudio.mp4" poster="WKND/SCARYASS_SAT_BUMP_noaudio.jpg" %}
+
+{% include videoplayer.html video="WKND/WKND_NICKI_MINAJ_BUMP_version_01.mp4" poster="WKND/WKND_NICKI_MINAJ_BUMP_version_01.jpg" %}
+
+{% include videoplayer.html video="WKND/GIFT_A_THON_BUMP_01.mp4" poster="WKND/GIFT_A_THON_BUMP_01.jpg" %}
+
+{% include videoplayer.html video="WKND/100_THINGS_ED_SHEERAN_BUMP.mp4" poster="WKND/100_THINGS_ED_SHEERAN_BUMP.jpg" %}
+
+{% include videoplayer.html video="WKND/WKND_TAYLOR_SWIFT_BUMP.mp4" poster="WKND/WKND_TAYLOR_SWIFT_BUMP.jpg" %}
+
+{% include videoplayer.html video="WKND/WKND_SELF_FC_SelfieMarathon.mp4" poster="WKND/WKND_SELF_FC_SelfieMarathon.jpg" %}
+
+{% include videoplayer.html video="WKND/WKND_DemiLovato_OPEN.mp4" poster="WKND/WKND_DemiLovato_OPEN.jpg" %}
+
+{% include videoplayer.html video="WKND/WE_HEART_VICTORIAJUSTICE_OPEN.mp4" poster="WKND/WE_HEART_VICTORIAJUSTICE_OPEN.jpg" %}
+
+{% include videoplayer.html video="WKND/TOT_open.mp4" poster="WKND/TOT_open.jpg" %}
+
+{% include videoplayer.html video="WKND/PINKPRIDE_HeroRibbon.m4v" poster="WKND/PINKPRIDE_HeroRibbon.jpg" %}
+
+
+### CREDITS
+
+| CLIENT | MTV |
+| Creative Director | Jeffrey Keyton |
+| VP On-Air Design | Romy Mann |
+| Design Directors | Lance Rusoff / Jen Roddie |
+| Designers | Nora Stone |
+| Animators | Amy Messacar, Galya Kay, Dana Jefferson |
+| Producer | Ross Jeffcoat |

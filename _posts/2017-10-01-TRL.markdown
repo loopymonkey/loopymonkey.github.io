@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "TRL"
+date:   October 2017
+tags: promo merch OOH digital packaging
+image:	trl.png	
+---
+
+## CREATIVE BRIEF
+
+TRL CAME BACK!  I started to work for MTV way back at the end of the original TRL and i actually got to work on it's eventual relaunch.  This was the full campaign, full show packaging, out of home marketing, digital, social and lots of toolkits.  We also helped the show team with all studio monitors and daily needs for graphics.
+
+{% include videoplayer.html video="TRL/TRL_REEL_CUT.mp4" poster="TRL/TRL_REEL_CUT.jpg" %}
+
+{% include videoplayer.html video="TRL/TRL_open.mp4" poster="TRL/TRL_open.jpg" %}
+
+### CREDITS
+
+| Creative Director | Thomas Berger |
+| VP Design | Rich Tu |
+| Director of Motion | Jen Epstein |
+| Art Director | Sasha Safir-Cohen |
+| Animators | Joe Perno / Dorca Musseb / Ethan Mackin / Magda Baez |
+| Designers | Christina Nahas / Hernan Ayala / Ben Buysee / Lindsey Chivez |
+| Lead Design Producer | Ross Jeffcoat |

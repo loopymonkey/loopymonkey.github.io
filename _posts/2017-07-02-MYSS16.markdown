@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "My Super Sweet 16"
+date:   2017-07-02 10:56:59 -0500
+tags: promo ooh digital
+image:	MYSS16/hero.jpg	
+---
+
+## CREATIVE BRIEF
+
+The full campaign for the return of MTV's MY SUPER SWEET 16 required a new look, full show packaging, out of home campaign, promos, social and digital.  
+
+For the full show packaging we worked with Block and Tackle.  
+
+One issue for the start of the promos, was that we knew we were not going to receive any show footage.  This requires 
+
+{% vimeo 217068416 %}
+
+### CREDITS 
+
+| SCREAM |
+| Client | MTV |
+| Packaging Vendor | Block & Tackle |
+| SVP/VPs of Design | Andrei Chahine & Romy Mann |
+| Art Director / Designer | Rebecca Simnowitz |
+| Designer | Sasha Safir-Cohen |
+| Animator | Dana Jefferson |
+| Producer | Ross Jeffcoat |

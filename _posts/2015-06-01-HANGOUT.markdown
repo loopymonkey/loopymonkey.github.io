@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "HANGOUT FESTIVAL"
+date:   2015-06-01 10:56:59 -0500
+tags:   packaging promo ooh
+image:	HANGOUT/hero.jpg	
+---
+
+## CREATIVE BRIEF
+
+Show packaging for the 2015 Hangout Festival that aired on multiple viacom properties.  Full show packaing with open, lower thirds, transitions, mortises, as well as promo spots were created.  
+
+For out of home needs we worked on created some banner assets that lived at the venue with brand integration.  
+
+{% include videoplayer.html video="HANGOUT/hangoutfest.mp4" poster="HANGOUT/hero.jpg" %}
+
+### CREDITS
+
+
+| CLIENT | MTV |
+| SVP CREATIVE | Thomas Berger |
+| Creative Director | Lance Rusoff |
+| ANIMATOR/DESIGNER | GALYA KAY |
+| Producer | Ross Jeffcoat

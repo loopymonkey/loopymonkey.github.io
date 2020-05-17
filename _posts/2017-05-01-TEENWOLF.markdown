@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Teen Wolf"
+date:   2017-05-01 10:56:59 -0500
+tags: promo merch OOH digital
+image:	TEENWOLF/hero.jpg	
+---
+
+## CREATIVE BRIEF
+
+This was a full campaign for the _final_ season of Teen Wolf.  We had to work on the final promo look, out of home promotion, a giant comic-con banner as well as comic-con booth to skin.  We also worked on the final packaging DVD as well as the final complete series box set.  
+
+
+![Comic Con Banner]({{ site.baseurl }}/assets/TEENWOLF/comicon.jpg)
+
+![Complete Series Box Set]({{ site.baseurl }}/assets/TEENWOLF/series_box1.jpg)
+
+![Complete Series Box Set]({{ site.baseurl }}/assets/TEENWOLF/series_box2.jpg)
+
+![Complete Series Box Set]({{ site.baseurl }}/assets/TEENWOLF/series_box3.jpg)
+
+### CREDITS 
+
+| TEEN WOLF CAMPAIGN |
+| MTV Design |
+| Creative Director| Andrei Chahine |
+| VP On-Air Design| Romy Mann |
+| Design Director| Rebecca Simnowitz |
+| Designer| Joe Cosentino |
+| Designer/Animator| Chris Galagher |
+| Producer| Ross Jeffcoat |

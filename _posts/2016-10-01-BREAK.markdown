@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "BREAK THE RECORD WEEK"
+date:   2016-11-01 10:56:59 -0500
+tags:   packaging dynamics promo
+image:	BREAK/hero.jpg	
+---
+
+## CREATIVE BRIEF
+
+The MTV stunt team decided to do a week long stunt trying to break various records live on tv.  We created full show packaging and promos.
+
+For the dynamics, we had to create a live scoreboard on air for certain stunts that always had the latest results.  
+
+{% include videoplayer.html video="BREAK/breakrecord.mp4" poster="BREAK/hero.jpg" %}
+
+### CREDITS
+
+| CLIENT | MTV |
+| SVP CREATIVE | JEFFREY KEYTON |
+| VP ON AIR | ROMY MANN |
+| Creative Director | Lance Rusoff |
+| DESIGNER | PRASHAST THAPAN |
+| ANIMATOR | BRIAN MCGEE |
+| Producer | Ross Jeffcoat

@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "AYTO"
+date:   2017-06-01 10:56:59 -0500
+tags: promo OOH digital packaging
+image:	AYTO/hero.jpg	
+---
+
+## CREATIVE BRIEF
+
+Are you the one came back to MTV and it was time for a new fresh look.  We were tasked with a full campaign, the show open, the aftershow packaging, promos, and out of home campaign.  Covering print, digital, social and on-air with one cohesive new brand look for the show.    
+
+![1515 Studio Shades]({{ site.baseurl }}/assets/AYTO/shades.jpg)
+
+![Lobby Takeover]({{ site.baseurl }}/assets/AYTO/lobby.jpg)
+
+![Lobby Takeover]({{ site.baseurl }}/assets/AYTO/lobby2.jpg)
+
+![Digital Campaign]({{ site.baseurl }}/assets/AYTO/digital.jpg)
+
+![After Show Packaging]({{ site.baseurl }}/assets/AYTO/aftershow.jpg)
+
+
+### CREDITS 
+
+| AYTO |
+| Client | MTV |
+| SVP/VPs of Design | Joe Ortiz, Andrei Chahine & Romy Mann |
+| Art Director / Designer | Rebecca Simnowitz |
+| Producer | Ross Jeffcoat |
+| Photographer | F. Scott Schafer |
+| Writers | Justin Freidus & Hannah Vanderpoel |

@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "SCREAM CAMPAIGN"
+date:   2017-06-01 10:56:59 -0500
+tags: promo OOH digital
+image:	SCREAM/hero.jpg	
+---
+
+## CREATIVE BRIEF 
+
+Scream turned into a TV series!  We were tasked with a full campaign of promo look, digital, social, out of home and also the Scream Aftershow look and full packaging.  
+
+{% include videoplayer.html video="SCREAM/scream_aftershow.mp4" poster="SCREAM/scream_aftershow.jpg" %}
+
+{% include videoplayer.html video="SCREAM/nasdaq.m4v" poster="SCREAM/nasdaq.jpg" %}
+
+{% include videoplayer.html video="SCREAM/Reuters.m4v" poster="SCREAM/Reuters.jpg" %}
+
+![1515 Studio Shades]({{ site.baseurl }}/assets/SCREAM/shades.jpg)
+
+![Bus]({{ site.baseurl }}/assets/SCREAM/bus.jpg)
+
+![banners]({{ site.baseurl }}/assets/SCREAM/banners.jpg)
+
+![subway]({{ site.baseurl }}/assets/SCREAM/subway.jpg)
+
+
+### CREDITS 
+
+| SCREAM |
+| Client | MTV |
+| SVP/VPs of Design | Joe Ortiz, Andrei Chahine & Romy Mann |
+| Art Director / Designer | Rebecca Simnowitz |
+| Animator | Dana Jefferson |
+| Producer | Ross Jeffcoat |
+| Photographer | F. Scott Schafer |
+| Writers | Justin Freidus & Hannah Vanderpoel |

@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "YOU ROCK THE DEUCE - MTV2"
+date:   2008-02-01
+tags:   promo
+image:	YRTD/hero.jpg	
+---
+
+## CREATIVE BRIEF 
+
+You Rock The Deuce was an hour long block of music programming on MTV2.  This was a special open for the block that we decided to treat in animated form.  We worked with a french illustrator to create the key frames and backgrounds, and then we worked with World Leaders Entertainment in New York to animate the open.
+
+{% include videoplayer.html  video="YRTD/yourockthedeuce.mp4" poster="YRTD/hero.jpg" %}
+
+
+### CREDITS
+
+| Client | MTV2 |
+| SVP CREATIVE | Jeffrey Keyton |
+| VP DESIGN |  Romy Mann |
+| Design Director | Rodger Belknap |
+| Art Director | Ugo Nonnis |
+| Producer |  Ross Jeffcoat |
+| Animation |  World Leaders Entertainment |

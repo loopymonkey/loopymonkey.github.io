@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "BEACH HOUSE 2017"
+date:   2017-07-01 10:56:59 -0500
+tags: promo merch OOH packaging
+image:	BEACH/hero.jpg	
+---
+
+## CREATIVE BRIEF
+
+MTV's beach house returned for a special on air which we created the full look, show packaging, promos, merch and marketing for.    
+
+{% include videoplayer.html video="BEACH/beachhouse.mp4" poster="BEACH/hero.jpg" %}
+
+### CREDITS
+
+| CLIENT | MTV |
+| SVP CREATIVE | Thomas Berger |
+| Creative Director | Lance Rusoff |
+| Animator/ Designer | Galya Kay |
+| Producer | Ross Jeffcoat

@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "CATFISH SEASON 5"
+date:   March 2017
+tags: promo digital OOH
+image:	CATFISH/hero.jpg	
+---
+
+## CREATIVE BRIEF
+
+For Catfish Season 5 part 2 campaign, we thought it would be fun to do an animated homage to the old Hannah Barbara cartoons of past.  
+
+## STORYBOARD
+
+We eventually mocked up this very rough animatic storyboard to get a feel for how the spot would play out. 
+
+We worked closely with character designer Brian Mainolfi to visualize our main frames and characters to animate with.  We then kept internal using our own animators in house to put together our final cut as well as all audio done with our in house audio team.  The goal was to use animation sparingly in the same simple Hannah Barbara method of less is more in order to execute with a very meager budget and quick timeline.  
+
+{% include videoplayer.html video="CATFISH/storyboard.m4v" poster="CATFISH/storyboard.jpg" %}
+
+## FINAL PROMO
+
+{% include videoplayer.html video="CATFISH/Scooby_full.m4v" poster="CATFISH/hero.jpg" %}
+
+## EPISODIC USING ADOBE CHARACTER ANIMATOR
+
+For some episodics, we thought it would be fun to try Adobe Character Animator and re-use our favorite catfish villain to talk to the audience directly. 
+
+{% vimeo 240878360 %}
+
+
+### CREDITS
+
+| CATFISH |
+| Client | MTV |
+| VIMEO - https://vimeo.com/193952605
+| SVP CREATIVE | Andrei Chahine |
+| VP of Design |    Romy Mann |
+| Art Director |    Ted McGrath |
+| AUDIO | Dave Huston |
+| Producer |    Ross Jeffcoat |
+| Illustrator | Brian Mainolfi |
+| Animators|      Kaitlin Kobs / Chris Gallagher |

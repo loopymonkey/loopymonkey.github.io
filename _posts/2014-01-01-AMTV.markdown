@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "AMTV"
+date: 2014-01-01
+tags: promo 
+image:	AMTV/hero.jpg	
+---
+
+## CREATIVE BRIEF 
+
+Believe it or not we did used to play music videos on MTV, at least still in 2014.  We still had a morning block of music that we called AMTV.  The assignment was to create unique fun channel ID's to play during the block.   
+
+## ROOSTER WEATHER
+
+Shot with green screen and practical effects in a studio environment.  These promos were created as bumpers adjacent to a live weather map for viewers of current conditions.
+
+The Rooster head was custom made just for the shoot.  
+
+{% include videoplayer.html video="AMTV/ROOSTER_RAIN.mov" poster="AMTV/ROOSTER_RAIN.jpg" %}
+
+{% include videoplayer.html video="AMTV/ROOSTER_WIND.mov" poster="AMTV/ROOSTER_WIND.jpg" %}
+
+## PAREIDOLIA
+
+Did you see that?  Pareidolia, the tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern.  This shoot was inspired by the word, and attempted to bring some music connections to our morning eveyrday objects.  
+
+Shot in live studio with 3D visual effects added later in post with Soft Image.  
+
+{% include videoplayer.html video="AMTV/ISAW_TOAST_RIHANNA.mov" poster="AMTV/ISAW_TOAST_RIHANNA.jpg" %}
+
+## MORNING 
+
+We still had rights at the time to popular music to use on air for promos.  We thought it would be fun to have some morning moments switched with one of our favorite four legged animals.  This was shot lo-fi in my co-workers apartment with her friends dogs that lived nearby.  Thanks Tina. 
+
+{% include videoplayer.html video="AMTV/dog_hair.mov" poster="AMTV/dog_hair.jpg" %}
+
+{% include videoplayer.html video="AMTV/dog_eat.mov" poster="AMTV/dog_eat.jpg" %}
+
+
+### CREDITS
+
+| Client | MTV|
+|SVP CREATIVE | Jeffrey Keyton |
+|VP of Design |     Romy Mann |
+|Art Director |    Crobin Leo |
+|Producer |    Ross Jeffcoat |
+|Animators |      Chris Gallagher |
