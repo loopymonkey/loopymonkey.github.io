@@ -12,7 +12,6 @@ You Rock The Deuce was an hour long block of music programming on MTV2.  This wa
 
 {% include videoplayer.html  video="YRTD/yourockthedeuce.mp4" poster="YRTD/hero.jpg" %}
 
-
 ### CREDITS
 
 | Client | MTV2 |

@@ -10,9 +10,10 @@ image:	trl.png
 
 TRL CAME BACK!  I started to work for MTV way back at the end of the original TRL and i actually got to work on it's eventual relaunch.  This was the full campaign, full show packaging, out of home marketing, digital, social and lots of toolkits.  We also helped the show team with all studio monitors and daily needs for graphics.
 
-{% include videoplayer.html video="TRL/TRL_REEL_CUT.mp4" poster="TRL/TRL_REEL_CUT.jpg" %}
-
 {% include videoplayer.html video="TRL/TRL_open.mp4" poster="TRL/TRL_open.jpg" %}
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/419566879?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
 
 ### CREDITS
 
