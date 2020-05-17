@@ -14,7 +14,7 @@ For the full show packaging we worked with Block and Tackle.
 
 One issue for the start of the promos, was that we knew we were not going to receive any show footage.  This requires 
 
-{% vimeo 217068416 %}
+
 
 ### CREDITS 
 
