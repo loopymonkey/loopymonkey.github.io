@@ -3,7 +3,7 @@ layout: post
 title:  "TRL"
 date:   October 2017
 tags: promo merch OOH digital packaging
-image:	trl.png	
+image:	TRL/trl.png	
 ---
 
 ## CREATIVE BRIEF
