@@ -19,7 +19,5 @@ I was tasked to produce the show packaging, key art, promo graphics and all camp
 | SVP DESIGN | Thomas Berger |
 | Creative Director | Lance Rusoff |
 | VP Motion | Tim Livezey |
-| Executive Producer | Pam Brill |
 | SR Motion Designer | Oscar Rivera |
-| Lead Design Producer | Ross Jeffcoat |
-| Lead Design Producer | Ross Jeffcoat |
+| Design Producer | Ross Jeffcoat |
