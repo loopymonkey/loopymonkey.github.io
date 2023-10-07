@@ -12,7 +12,8 @@ All Star Shore is an extension to the "SHORE" franchise premiring on Paramount+ 
 
 I was tasked to produce the show packaging, key art, promo graphics and all campaign promotion design and motion.
 
-<iframe width="550" height="316" src="https://www.youtube.com/embed/jXN-Ki_KPuw?si=H_J29qTAWD7U1Sa1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ {% youtube "https://www.youtube.com/watch?v=ghZs-5PvR68" %}
+
 
 ### CREDITS
 

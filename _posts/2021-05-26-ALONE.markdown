@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Alone Together PSA"
+date:   May 2021
+tags: promo 
+image:	ALONE/alonetogether.png	
+---
+
+## CREATIVE BRIEF
+
+Collaborating with the Ad Council, we worked to create a spot that would air globally to encourage mask wearing.  We partnered with creative ad agency Block and Tackle to create the mask spot.
+
+
+
+ {% youtube "https://www.youtube.com/watch?v=e2JjqIT9mI4" %}
+
+
+### CREDITS
+
+| SVP DESIGN | Thomas Berger |
+| Creative Director | Lance Rusoff |
+| VP Motion | Tim Livezey |
+| Design Producer | Ross Jeffcoat |
+| Vendor | Block and Tackle |
