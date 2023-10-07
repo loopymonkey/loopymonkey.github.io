@@ -61,7 +61,7 @@ time {
 
 .job,
 .button {
-  font-family: "Montserrat", "Quicksand", sans-serif;
+  font-family: "Lilita One", cursive;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
@@ -272,25 +272,39 @@ time {
 
 .site-title {
   font-size: 26px;
-  font-weight: 300;
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
   color: white;
-  font-weight: 900;
+  font-weight: 400;
   margin-left: 1rem;
   cursor: pointer;
+  font-family: "Lilita One", cursive;
 }
 .site-title, .site-title:visited {
   color: white;
+}
+
+.page-title {
+  font-family: "Lilita One", cursive;
+  font-variant-caps: small-caps;
+  font-size: 2rem;
+  text-decoration: underline;
+  text-decoration-color: #ff009e;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 10px;
 }
 
 .site-nav {
   float: right;
   line-height: 56px;
   margin-right: 1rem;
+  font-family: "Lilita One", cursive;
+  font-weight: 400;
   cursor: pointer;
+  font-variant: small-caps;
+  font-size: 1.5rem;
 }
 .site-nav .menu-icon {
   display: none;
@@ -298,7 +312,7 @@ time {
 .site-nav .page-link {
   color: white;
   line-height: 1.5;
-  font-weight: 900;
+  font-weight: 400;
 }
 .site-nav .page-link:not(:last-child) {
   margin-right: 20px;
@@ -376,6 +390,7 @@ time {
 
 .page-heading {
   font-size: 20px;
+  font-family: "Lilita One", cursive;
 }
 
 .post-list {
@@ -405,11 +420,11 @@ time {
 
 .post-title {
   font-size: 42px;
-  letter-spacing: -1px;
   line-height: 1;
-  font-weight: 900;
+  font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 1rem;
+  font-family: "Lilita One", cursive;
 }
 @media screen and (max-width: 800px) {
   .post-title {
@@ -419,10 +434,15 @@ time {
 
 .post-content {
   margin-bottom: 30px;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 .post-content h2 {
-  font-size: 32px;
+  font-size: 28px;
+  text-transform: capitalize;
+  text-decoration: underline;
+  text-decoration-color: #ff009e;
+  text-underline-offset: 10px;
+  text-decoration-thickness: 1px;
 }
 @media screen and (max-width: 800px) {
   .post-content h2 {
@@ -430,7 +450,7 @@ time {
   }
 }
 .post-content h3 {
-  font-size: 26px;
+  font-size: 22px;
 }
 @media screen and (max-width: 800px) {
   .post-content h3 {
@@ -438,7 +458,7 @@ time {
   }
 }
 .post-content h4 {
-  font-size: 20px;
+  font-size: 18px;
 }
 @media screen and (max-width: 800px) {
   .post-content h4 {
@@ -476,6 +496,7 @@ article img {
 .gallery-item:hover {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.8);
   cursor: pointer;
+  border: 1px solid #ff009e;
 }
 .gallery-item img {
   width: 100%;

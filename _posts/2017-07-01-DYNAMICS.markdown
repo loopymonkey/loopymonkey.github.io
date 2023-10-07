@@ -6,7 +6,7 @@ tags: actionscript coding python
 image:	DYNAMICS/hero.jpg	
 ---
 
-## CREATIVE BRIEF
+## Creative Brief
 
 MTVU needed to bring in dynamic content over the air live.  We worked on a creative look and then worked on a custom back end solution to store data, and then converted the final design to work with our custom in house graphics tool.  
 

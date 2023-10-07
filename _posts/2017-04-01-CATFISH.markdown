@@ -6,11 +6,11 @@ tags: promo digital OOH
 image:	CATFISH/hero.jpg	
 ---
 
-## CREATIVE BRIEF
+## Creative Brief
 
 For Catfish Season 5 part 2 campaign, we thought it would be fun to do an animated homage to the old Hannah Barbara cartoons of past.  
 
-## STORYBOARD
+## Storyboard
 
 We eventually mocked up this very rough animatic storyboard to get a feel for how the spot would play out. 
 
@@ -18,17 +18,17 @@ We worked closely with character designer Brian Mainolfi to visualize our main f
 
 {% include videoplayer.html video="CATFISH/storyboard.m4v" poster="CATFISH/storyboard.jpg" %}
 
-## FINAL PROMO
+## Final Promo
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/419572238?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-## EPISODIC USING ADOBE CHARACTER ANIMATOR
+## Episodic Using Adobe Character Animator
 
 For some episodics, we thought it would be fun to try Adobe Character Animator and re-use our favorite catfish villain to talk to the audience directly. 
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/240878360?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-### CREDITS
+### Credits
 
 | CATFISH |
 | Client | MTV |
