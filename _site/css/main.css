@@ -377,6 +377,10 @@ time {
   opacity: 0.5;
 }
 
+.site-footer a {
+  font-size: 2rem;
+}
+
 /**
  * Page content
  */
