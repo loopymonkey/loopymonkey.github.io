@@ -2,7 +2,7 @@ html {
 	background-color: #5f45bb;
 	background-image: linear-gradient(to bottom right, #180cac, #d054e4);
 	color: #fff;
-	font-family: "Quicksand", sans-serif;
+	font-family: $base-font-family, sans-serif;
 	font-size: 16px;
 	-moz-osx-font-smoothing: grayscale;
 	-webkit-font-smoothing: antialiased;
@@ -48,7 +48,7 @@ time {
 
 .tag {
 	color: black;
-        background-color: cyan;
+        background-color: $tag-color;
         padding: 6px 10px 6px 10px;
         border-radius: 8px;
         font-weight: 900;	    
@@ -62,7 +62,7 @@ time {
 
 .job,
 .button {
-	font-family: 'Lilita One', cursive;
+	font-family: $header-font-family;
 	letter-spacing: 0.3rem;
 	text-transform: uppercase;
 }

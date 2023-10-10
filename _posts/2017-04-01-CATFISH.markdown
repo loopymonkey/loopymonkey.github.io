@@ -2,7 +2,7 @@
 layout: post
 title:  "CATFISH SEASON 5"
 date:   March 2017
-tags: promo digital OOH
+tags: promo digital OOH illustration
 image:	CATFISH/hero.jpg	
 ---
 

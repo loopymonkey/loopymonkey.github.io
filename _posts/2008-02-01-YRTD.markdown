@@ -2,7 +2,7 @@
 layout: post
 title:  "YOU ROCK THE DEUCE - MTV2"
 date:   2008-02-01
-tags:   promo
+tags:   promo illustration
 image:	YRTD/hero.jpg	
 ---
 

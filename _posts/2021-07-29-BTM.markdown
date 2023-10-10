@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Behind The Music"
+date:   July 2021
+tags: promo packaging marketing
+image:	BTM/BTM.png	
+---
+
+## CREATIVE BRIEF
+
+The iconic series Behind the Music series came back to Paramount + for a fresh take.  I was tasked to produce the logo, new iconic show packaging, and all the promotional marketing material.
+
+![Movie Poster Key Art]({{ site.baseurl }}/assets/BTM/keyart.jpg)
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/872607442?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+
+### CREDITS
+
+| SVP DESIGN | Thomas Berger |
+| Creative Director | Rich Browd |
+| VP Motion | Tim Livezey |
+| SR Motion Designer | Gary Samson |
+| Lead Design Producer | Ross Jeffcoat |
