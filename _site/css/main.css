@@ -52,6 +52,8 @@ time {
   border-radius: 8px;
   font-weight: 900;
   font-size: 0.8rem;
+  display: inline-block;
+  margin-top: 6px;
 }
 
 .post-content h2 {
