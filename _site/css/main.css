@@ -21,6 +21,7 @@ a {
   color: currentColor;
   cursor: pointer;
   text-decoration: none;
+  font-weight: 900;
 }
 
 .picture-image {
@@ -347,7 +348,7 @@ time {
     height: 15px;
   }
   .site-nav .menu-icon > svg path {
-    fill: #424242;
+    fill: rgb(66.25, 66.25, 66.25);
   }
   .site-nav .trigger {
     clear: both;
@@ -362,10 +363,12 @@ time {
     display: block;
     padding: 5px 10px;
     color: black;
-    margin-left: 0.5rem;
   }
   .site-nav .page-link:not(:last-child) {
     margin-right: 0;
+  }
+  .site-nav .page-link {
+    margin-left: 0.5rem;
   }
 }
 

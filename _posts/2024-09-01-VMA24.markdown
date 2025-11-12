@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Video Music Awards 2024"
+date:   September 2024
+tags: promo merch OOH digital packaging print social
+image:	VMA24/mtv-vma-2024.jpg	
+---
+
+## CREATIVE BRIEF
+
+The Video Music Awards for 2024 we partnered with branding agency Dixon Baxi.  I was the lead for design production across the entire campaign promotion.  
+
+This was once again a large global tentpole and required close contact with consumer and integrated marketing, events, social, promo, international, and the show team as well as many sub teams waiting for assets to use for supporting ancillary.
+
+- Key Art
+- Promo GFX
+- Out of Home print and motion billboards across multiple cities
+- Anamorphic video screens
+- Ancillary Events supporting
+- Event signage
+- Digital marketing
+
+{% include vimeo.html id="1135498470" %}
+
+### CREDITS
+
+| Sr. Creative Director | Tim Livezey |
+| Creative Director | Robert Postotnick |
+| SR Motion Designer | Gary Samson |
+| Art Director | Carli Malec |
+| Designer | Victoria Deblasi |
+| Lead Design Producer | Ross Jeffcoat |
+| Design Producer Social | Vivian Castelo |
+| Design Producer Promo | Kelly McCrossin |
+| Creative Studio Partner | Dixon Baxi |

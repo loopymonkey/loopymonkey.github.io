@@ -8,20 +8,17 @@ image:	REBRAND21/mtv_rebrand.png
 
 ## CREATIVE BRIEF
 
-In 2021 we launched a full rebrand for MTV.  This was a full global rebrand that would effect everything about our brand.  The rebrand won GOLD at Promax 2022 for brand image refresh.
+This was the second MTV Rebrand I worked through at Viacom, there were only 2 that ever happened since the launch of MTV.  This second global rebrand would effect everything about our brand.  The rebrand won GOLD at Promax 2022 for brand image refresh.
 
-I was responsible to audit all that was needed to get updated for the new look and then make sure all teams had the final files and make sure rollout was seamless across all of our teams.
+I was responsible to audit all that was needed to get updated for the new look and then make sure all teams had the final files and make sure rollout was seamless across all of our global teams.
 
 Full case study can be found at [Loyal Kasper](https://www.loyalkaspar.com/mtv-rebrand-2021)
 
-<br><br>
-
 ![Movie Poster Key Art]({{ site.baseurl }}/assets/REBRAND21/logos.png)
-<br><br>
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/835455445?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<br>
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/835455230?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{% include vimeo.html id="835455445" %}
+
+{% include vimeo.html id="835455230" %}
 
 ### CREDITS
 

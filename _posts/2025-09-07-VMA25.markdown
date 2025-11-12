@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Video Music Awards 2025"
+date:   September 2025
+tags: promo merch OOH digital packaging print social
+image:	VMA25/keyart.png	
+---
+
+## CREATIVE BRIEF
+
+The Video Music Awards for 2025 elevated our look from 2024 to include CBS branding for this year.  Our team created an updated visual style that embedded CBS key branding elements that reinforced where it was best to watch the show.
+
+This was once again a large global tentpole and required close contact with consumer and integrated marketing, events, social, promo, international, and the show team as well as many sub teams waiting for assets to use for supporting ancillary.
+
+Our team working created any and all motion and design assets used to promote the show.
+
+- Key Art
+- Promo GFX
+- Out of Home print and motion billboards across multiple cities
+- Anamorphic video screens
+- Ancillary Events supporting
+- Event signage
+- Digital marketing
+
+![Hero Key Art]({{ site.baseurl }}/assets/VMA25/hero_art.jpg)
+
+{% include vimeo.html id="1135503584" %}
+
+![Hero Key Art]({{ site.baseurl }}/assets/VMA25/ooh_ny.jpg)
+
+![Hero Key Art]({{ site.baseurl }}/assets/VMA25/moxy.jpg)
+
+![Hero Key Art]({{ site.baseurl }}/assets/VMA25/aerial.jpg)
+
+![Hero Key Art]({{ site.baseurl }}/assets/VMA25/roku.jpg)
+
+![Hero Key Art]({{ site.baseurl }}/assets/VMA25/uber.jpg)
+
+### CREDITS
+
+| Sr. Creative Director | Tim Livezey |
+| Creative Director | Lance Rusoff |
+| Sr. Motion Designer | Kaz Ishi |
+| Art Director | Carli Malec |
+| Designer | Victoria Deblasi |
+| Lead Design Producer | Ross Jeffcoat |
+| Design Producer Social | Vivian Castelo |
+| Design Producer Promo | Kelly McCrossin |

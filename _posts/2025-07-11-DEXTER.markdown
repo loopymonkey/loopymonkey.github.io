@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Dexter Resurrection"
+date:   July 2024
+tags: promo merch OOH digital packaging print social
+image:	dexter/keyart.png	
+---
+
+## CREATIVE BRIEF
+
+As Design Production Lead for the Dexter: Resurrection, I directed internal design and motion teams alongside external vendor partners to execute the global campaign's visual strategy. Our portfolio encompassed high-profile activations such as Times Square takeovers and branded Amazon shipping boxes.
+
+- Key Art
+- Promo GFX
+- Out of Home print and motion billboards across multiple cities
+- Ancillary Events
+- Event signage
+- Digital marketing
+- Amazon promotional box art
+
+![Hero Key Art]({{ site.baseurl }}/assets/DEXTER/keyart.png)
+
+{% include vimeo.html id="1135925833" %}
+
+![La Billboard]({{ site.baseurl }}/assets/DEXTER/labillboard.jpg)
+
+![Great Wall Times Square]({{ site.baseurl }}/assets/DEXTER/greatwall.jpg)
+
+![Penn Plaza]({{ site.baseurl }}/assets/DEXTER/penn.jpg)
+
+![Amazon Shipping Box]({{ site.baseurl }}/assets/DEXTER/amazon.jpg)
+
+![Roadblock Times Square Takeover]({{ site.baseurl }}/assets/DEXTER/roadblockTSQ.jpg)
+
+{% include vimeo.html id="1135927726" %}
+
+
+### CREDITS
+
+| Sr. Creative Director | Tim Livezey |
+| Creative Director | Robert Postotnick |
+| Sr. Motion Designer | Gary Samson |
+| Sr. Motion Designer | Kaz Iwai |
+| Art Director | Carli Malec |
+| Lead Design Producer | Ross Jeffcoat |

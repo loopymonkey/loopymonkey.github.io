@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Landman Season 1"
+date:   September 2024
+tags: promo OOH digital packaging print social
+image:	landmans1/keyart.png	
+---
+
+## CREATIVE BRIEF
+
+The first season of Landman I was in charge of the design production for the entire marketing campaign after the hero artwork was finished.  Orchestrated vendor relationships and cross-functional collaboration with global teams to ensure seamless delivery of brand-consistent creative assets across all distribution channels and mediums.
+
+- Key Art
+- Promo GFX
+- Out of Home print and motion billboards across multiple cities
+- Social
+- Events
+- Digital marketing
+
+![Hero Key Art]({{ site.baseurl }}/assets/LANDMANS1/heroart.png)
+
+![Hero Key Art]({{ site.baseurl }}/assets/LANDMANS1/altart.jpg)
+
+{% include vimeo.html id="1135492344" %}
+
+![Subway Posting]({{ site.baseurl }}/assets/LANDMANS1/landman_subway.jpg)
+
+![Penn Station]({{ site.baseurl }}/assets/LANDMANS1/landman_penn.jpg)
+
+![Billboard Example]({{ site.baseurl }}/assets/LANDMANS1/landman_billboard.jpg)
+
+### CREDITS
+
+| Sr. Creative Director | Tim Livezey |
+| Creative Director | Steve Chan |
+| Sr. Art Director | Edwin Alvarenga |
+| Sr. Motion Designer | Kaz Iwai |
+| Lead Design Producer | Ross Jeffcoat |

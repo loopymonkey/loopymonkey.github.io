@@ -18,6 +18,3 @@ github_username:  loopymonkey
 
 # Build settings
 markdown: kramdown
-
-# plugins: [jekyll-youtube]
-#  # This will require each of these gems automatically.

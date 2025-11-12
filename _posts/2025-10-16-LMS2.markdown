@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Landman Season 2"
+date:   November 2025
+tags: promo merch OOH digital packaging print social
+image:	LANDMANS2/keyart.png	
+---
+
+## CREATIVE BRIEF
+
+For the second season of Landman we partnered with [Leroy and Rose](https://leroyandrose.com/) for our hero key art.  I was the lead design producer and contact for all branding and design executions and updates.
+
+This was a massively global tentpole and required me to have close contact with executives as well as multiple teams across consumer, events, social, promo, and international.  It was my job to make sure all requests and notes across teams were addressed and executed for the campaigns success.  
+
+- Key Art
+- Promo GFX
+- Out of Home print and motion billboards across multiple cities
+- Social
+- Events
+- Digital marketing
+
+![Hero Key Art]({{ site.baseurl }}/assets/LANDMANS2/hero.jpg)
+
+![Hero Key Art]({{ site.baseurl }}/assets/LANDMANS2/hero_ensemble.jpg)
+
+![Hero Cast]({{ site.baseurl }}/assets/LANDMANS2/cast.png)
+
+{% include youtube.html id="nyDXLAokv5w" %}
+
+### CREDITS
+
+| Sr. Creative Director | Tim Livezey |
+| Creative Director | Steve Chan |
+| Sr. Art Director | Edwin Alvarenga |
+| Sr. Motion Designer | Kaz Iwai |
+| Lead Design Producer | Ross Jeffcoat |

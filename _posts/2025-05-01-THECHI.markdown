@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "The CHI Season 7"
+date:   May 2024
+tags: promo merch OOH digital packaging print social
+image:	THECHI/keyart.png
+---
+
+## CREATIVE BRIEF
+
+As Design Production Lead for the Chi Season 7, I directed internal design and motion teams alongside external vendor partners to execute the global campaign's visual strategy. Our portfolio encompassed high-profile activations across print, social, digital, and broadcast linear activations globally.
+
+
+- Key Art
+- Promo GFX
+- Out of Home print and motion billboards across multiple cities
+- Ancillary Events
+- Event signage
+- Digital marketing
+
+{% include vimeo.html id="1135933760" %}
+
+{% include vimeo.html id="1135933730" %}
+
+{% include vimeo.html id="1135933749" %}
+
+### CREDITS
+
+| Sr. Creative Director | Tim Livezey |
+| Creative Director | Steve Chan |
+| Sr. Art Director | Edwin Alvarenga |
+| Sr. Motion Designer | Kaz Iwai |
+| Lead Design Producer | Ross Jeffcoat |
