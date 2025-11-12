@@ -3,7 +3,7 @@ layout: post
 title:  "Landman Season 1"
 date:   September 2024
 tags: promo OOH digital packaging print social
-image:	landmans1/keyart.png	
+image:	LANDMANS1/keyart.png	
 ---
 
 ## CREATIVE BRIEF
