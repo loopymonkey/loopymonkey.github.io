@@ -3,7 +3,7 @@ layout: post
 title:  "Dexter Resurrection"
 date:   July 2024
 tags: promo merch OOH digital packaging print social
-image:	dexter/keyart.png	
+image:	DEXTER/keyart.png	
 ---
 
 ## CREATIVE BRIEF
